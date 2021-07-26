@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @GeoMark1
 - 🌱 I’m currently learning Python!
+- ✨ I am a tech recruiter
 
 
 <!---
